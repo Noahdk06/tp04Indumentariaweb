@@ -4,6 +4,7 @@ using camisetas.Models;
 
 namespace camisetas.Controllers;
 
+
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
@@ -15,14 +16,32 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        ViewBag.diccionario = Equipo.EquiposIndumentaria;
         return View();
     }
 
-    public IActionResult Privacy()
+    public IActionResult selectIndumentaria()
     {
+        ViewBag.ListaEquipo = Equipo.ListaEquipos;
+        ViewBag.ListaMedia = Equipo.ListaMedias;
+        ViewBag.ListaPantis = Equipo.ListaPantalones;
+        ViewBag.ListaRemera = Equipo.ListaRemeras;
         return View();
     }
 
+    public IActionResult GuardarIndumentaria (int equipo, int media, int pantalon, int remera)
+    {
+     if (equipo==null||media==null||pantalon==null||remera==null){
+        return View();
+     }
+     else{
+        Indumentaria Carlitos = new Indumentaria(Equipo.ListaMedias[media], Equipo.ListaPantalones[pantalon], Equipo.ListaRemeras[remera]);
+        
+        return View();
+     }
+     
+     
+    }
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {

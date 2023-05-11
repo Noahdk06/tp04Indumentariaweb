@@ -2,19 +2,19 @@ public class Indumentaria
     {
 
         public string Medias { get; private set; }
-        public int Pantalon { get; private set; }
-        public int Camiseta { get; private set; }
+        public string Pantalon { get; private set; }
+        public string Camiseta { get; private set; }
         
 
         public Indumentaria()
         {
          Medias ="";
  
-         Pantalon=0;
-         Camiseta=0;
+         Pantalon="";
+         Camiseta="";
        
         }
-        public Indumentaria(string calcetines, int pantis, int playera)
+        public Indumentaria(string calcetines, string pantis, string playera)
         {
             Medias = calcetines;
             Pantalon = pantis;

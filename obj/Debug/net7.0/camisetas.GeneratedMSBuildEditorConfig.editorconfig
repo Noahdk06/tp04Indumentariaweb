@@ -9,37 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = camisetas
 build_property.RootNamespace = camisetas
-build_property.ProjectDir = z:\camisetas\camisetas\
+build_property.ProjectDir = z:\camisetas\camisetas\tp04Indumentariaweb\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = z:\camisetas\camisetas
+build_property.MSBuildProjectDirectory = z:\camisetas\camisetas\tp04Indumentariaweb
 build_property._RazorSourceGeneratorDebug = 
 
-[z:/camisetas/camisetas/Views/Home/Index.cshtml]
+[z:/camisetas/camisetas/tp04Indumentariaweb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/camisetas/camisetas/Views/Home/Privacy.cshtml]
+[z:/camisetas/camisetas/tp04Indumentariaweb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/camisetas/camisetas/Views/Shared/Error.cshtml]
+[z:/camisetas/camisetas/tp04Indumentariaweb/Views/Home/SelectIndumentaria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWxlY3RJbmR1bWVudGFyaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[z:/camisetas/camisetas/tp04Indumentariaweb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/camisetas/camisetas/Views/Shared/_ValidationScriptsPartial.cshtml]
+[z:/camisetas/camisetas/tp04Indumentariaweb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/camisetas/camisetas/Views/_ViewImports.cshtml]
+[z:/camisetas/camisetas/tp04Indumentariaweb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/camisetas/camisetas/Views/_ViewStart.cshtml]
+[z:/camisetas/camisetas/tp04Indumentariaweb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/camisetas/camisetas/Views/Shared/_Layout.cshtml]
+[z:/camisetas/camisetas/tp04Indumentariaweb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-u72eo06xms

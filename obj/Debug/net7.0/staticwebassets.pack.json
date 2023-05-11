@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\camisetas.bundle.scp.css",
+      "PackagePath": "staticwebassets\\camisetas.bundle.scp.css"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\Thumbs.db",
+      "PackagePath": "staticwebassets\\imagenes\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\afa.png",
+      "PackagePath": "staticwebassets\\imagenes\\afa.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\azul.png",
+      "PackagePath": "staticwebassets\\imagenes\\azul.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\betis.png",
+      "PackagePath": "staticwebassets\\imagenes\\betis.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\chicago.png",
+      "PackagePath": "staticwebassets\\imagenes\\chicago.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\chicagomedia.png",
+      "PackagePath": "staticwebassets\\imagenes\\chicagomedia.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\cr7.png",
+      "PackagePath": "staticwebassets\\imagenes\\cr7.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\diego.png",
+      "PackagePath": "staticwebassets\\imagenes\\diego.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\ermalaga.png",
+      "PackagePath": "staticwebassets\\imagenes\\ermalaga.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\fiorentina.png",
+      "PackagePath": "staticwebassets\\imagenes\\fiorentina.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\gales.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\gales.jpg"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\green.png",
+      "PackagePath": "staticwebassets\\imagenes\\green.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\iquique.png",
+      "PackagePath": "staticwebassets\\imagenes\\iquique.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\japon.png",
+      "PackagePath": "staticwebassets\\imagenes\\japon.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\jesu.png",
+      "PackagePath": "staticwebassets\\imagenes\\jesu.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\morado.png",
+      "PackagePath": "staticwebassets\\imagenes\\morado.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\nigga.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\nigga.jpg"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\pala.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\pala.jpg"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\puyol.png",
+      "PackagePath": "staticwebassets\\imagenes\\puyol.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\raian.png",
+      "PackagePath": "staticwebassets\\imagenes\\raian.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\s1.png",
+      "PackagePath": "staticwebassets\\imagenes\\s1.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\s10.png",
+      "PackagePath": "staticwebassets\\imagenes\\s10.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\s2.png",
+      "PackagePath": "staticwebassets\\imagenes\\s2.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\s3.png",
+      "PackagePath": "staticwebassets\\imagenes\\s3.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\s4.png",
+      "PackagePath": "staticwebassets\\imagenes\\s4.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\s5.png",
+      "PackagePath": "staticwebassets\\imagenes\\s5.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\s6.png",
+      "PackagePath": "staticwebassets\\imagenes\\s6.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\s7.png",
+      "PackagePath": "staticwebassets\\imagenes\\s7.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\s8.png",
+      "PackagePath": "staticwebassets\\imagenes\\s8.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\s9.png",
+      "PackagePath": "staticwebassets\\imagenes\\s9.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\imagenes\\saca.png",
+      "PackagePath": "staticwebassets\\imagenes\\saca.png"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\camisetas\\camisetas\\tp04Indumentariaweb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.camisetas.props",
+      "PackagePath": "build\\camisetas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.camisetas.props",
+      "PackagePath": "buildMultiTargeting\\camisetas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.camisetas.props",
+      "PackagePath": "buildTransitive\\camisetas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.camisetas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
