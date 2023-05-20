@@ -8,7 +8,36 @@
     <title>Document</title>
 </head>
 <body>
+ <p>@ViewBag["error"]</p>
+ <div>
+    <form action="GuardarIndumentaria">
+        @for (int i = 0; i <Equipo.ListaEquipos.Count; i++)
+{
+ <label for="@i">@Equipo.ListaEquipos[i]</label>
+ <input type="radio" name="Equipos" id="@i">
+}
+ @for (int i = 0; i <Equipo.ListaRemeras.Count; i++)
+{
+    <img src="/imagenes/@Equipo.ListaRemeras[i]" />
+ <label for="@i">@Equipo.ListaRemeras[i]</label>
+ <input type="radio" name="Remeras" id="@i">
+}
+ @for (int i = 0; i <Equipo.ListaPantalones.Count; i++)
+{
+    <img src="/imagenes/@Equipo.ListaRemeras[i]"/>
+ <label for="@i">@Equipo.ListaPantalones[i]</label>
+ <input type="radio" name="Pantalones" id="@i">
+}
+ @for (int i = 0; i <Equipo.ListaMedias.Count; i++)
+{
+    <img src="/imagenes/@Equipo.ListaMedias[i]"/>
+ <label for="@i">@Equipo.ListaMedias[i]</label>
+ <input type="radio" name="Medias" id="@i">
+}
+<input type="submit" value="enviar"/>
+    </form>
     
+ </div>
 </body>
 </html>
 

@@ -32,11 +32,12 @@ public class HomeController : Controller
     public IActionResult GuardarIndumentaria (int equipo, int media, int pantalon, int remera)
     {
      if (equipo==null||media==null||pantalon==null||remera==null){
-        return View();
+        ViewBag.error="falta seleccionar una o mas prendas";
+        return View("selectIndumentaria");
      }
      else{
         Indumentaria Carlitos = new Indumentaria(Equipo.ListaMedias[media], Equipo.ListaPantalones[pantalon], Equipo.ListaRemeras[remera]);
-        
+        Equipo.IngresarIndumentaria(Equipo.ListaEquipos[equipo], Carlitos);
         return View();
      }
      
